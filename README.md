@@ -45,7 +45,7 @@ I'm a DevOps Engineer with a passion for **cloud computing, automation, and CI/C
 ## 📬 Let’s Connect
 
 I'm always open to collaborating on exciting projects or discussing innovative ideas. Feel free to reach out:  
-- 💼 [[LinkedIn](https://www.linkedin.com/in/3bdo7amouda/)](#)   
+- 💼 [LinkedIn] (https://www.linkedin.com/in/3bdo7amouda/)
 - 📩 Email: **abdelrahman.hamouda29@gmail.com**  
 
 ---
