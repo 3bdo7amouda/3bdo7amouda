@@ -1,65 +1,55 @@
-Hi, I'm Abdelrhman 👋 
+# 👋 Hi, I'm [Abdelrahman]
 
-DevOps Enthusiast | Cloud & Automation Advocate 
+## DevOps Engineer | Cloud & Automation Enthusiast
 
-I'm a final-year student at the Faculty of Communication Engineering with a strong passion for DevOps, Cloud Computing, and Automation. My engineering background has equipped me with a solid foundation in technical principles, and I’m deeply focused on mastering deployment strategies, scalability, and system optimization. I thrive on solving complex problems and building efficient, scalable systems. 
+I'm a DevOps Engineer with a passion for **cloud computing, automation, and CI/CD pipelines**. My journey began with a deep curiosity about optimizing deployments, improving infrastructure, and enhancing system efficiency. Today, I specialize in **AWS, Azure, Kubernetes, Docker, and Infrastructure as Code (IaC)** to build scalable, resilient, and efficient systems.
 
- 
+---
 
-🛠️ Technical Skills 
+## 🛠️ Technical Skills
 
-Cloud Platforms: AWS, Azure, Google Cloud 
+- **Cloud Platforms:** AWS | Azure  
+- **CI/CD Tools:** GitHub Actions | GitLab CI/CD | Jenkins  
+- **Infrastructure as Code:** Terraform | Ansible  
+- **Containerization & Orchestration:** Docker | Kubernetes  
+- **Monitoring & Logging:** Prometheus | Grafana | ELK Stack  
+- **Scripting & Automation:** Python | Bash  
+- **Version Control:** Git | GitHub | GitLab  
 
-CI/CD Tools: Jenkins, GitLab CI, GitHub Actions 
+---
 
-Automation: Ansible, Terraform, Kubernetes 
+## 🚀 Projects
 
-Programming/Scripting: Python, Bash, YAML 
+### BioTrack - Health Monitoring System  
+- Developed a **biometric monitoring** system using NIR spectroscopy to analyze health parameters.  
+- Integrated cloud-based analytics to provide real-time insights.  
 
-Monitoring & Logging: Prometheus, Grafana, ELK Stack 
+### Cloud Infrastructure as Code  
+- Automated AWS/Azure infrastructure provisioning using **Terraform & Ansible**.  
+- Improved deployment consistency and scalability.  
 
-Version Control: Git, GitHub, GitLab 
+### Kubernetes Microservices Deployment  
+- Deployed and managed a **microservices-based** application using Kubernetes.  
+- Ensured high availability, security, and fault tolerance.  
 
- 
+---
 
-🚀 Projects 
+## 🌱 What I'm Currently Learning
 
-Here are some of the projects I’ve worked on: 
+- **Advanced Kubernetes orchestration** and service mesh technologies  
+- **Serverless computing** and its applications  
+- **Enhancing security practices** in DevOps (DevSecOps)  
 
-Automated CI/CD Pipeline: Designed and implemented a CI/CD pipeline using Jenkins and Docker to automate deployment processes. 
+---
 
-Cloud Infrastructure Automation: Built scalable cloud infrastructure on AWS using Terraform and Ansible. 
+## 📬 Let’s Connect
 
-System Optimization: Optimized system performance by implementing monitoring solutions with Prometheus and Grafana. 
+I'm always open to collaborating on exciting projects or discussing innovative ideas. Feel free to reach out:  
+- 💼 [[LinkedIn](https://www.linkedin.com/in/3bdo7amouda/)](#)   
+- 📩 Email: **abdelrahman.hamouda29@gmail.com**  
 
-(Feel free to add links to your projects or repositories here) 
+---
 
- 
+💡 **Fun Fact:** When I’m not automating deployments, I enjoy exploring new technologies, riding horses, and playing chess.  
 
-🌱 What I’m Currently Learning 
-
-Advanced Kubernetes orchestration and management 
-
-Serverless architecture and its applications 
-
-Enhancing security practices in DevOps (DevSecOps) 
-
- 
-
-📫 Let’s Connect! 
-
-I’m always open to collaborating on exciting projects or discussing innovative ideas. Feel free to reach out to me: 
-
-LinkedIn:(https://www.linkedin.com/in/3bdo7amouda/)
-
-Email: abdelrahman.hamouda29@gmail.com
-
- 
-
-💡 Fun Fact 
-
-When I’m not automating deployments or optimizing systems, I enjoy exploring new technologies, horse riding, or playing chess. 
-
- 
-
-Thanks for visiting my profile! Let’s build the future of tech together. 🚀 
+🚀 **Let’s build the future of tech together!**
