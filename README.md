@@ -1,55 +1,41 @@
-# 👋 Hi, I'm Abdelrahman Hamouda
+![MasterHead](https://miro.medium.com/v2/resize:fit:3000/1*mqv03KrlG5LK2XU1uV4LJg.gif)
+<h1 align="center">Hi 👋, I'm Abdelrahman Hamouda</h1>
+<h3 align="center">Cloud DevOps Engineer from Egypt</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khaled1771&label=Profile%20views&color=0e75b6&style=flat" alt="khaled1771" /> </p>
 
-## DevOps Engineer | Cloud & Automation Enthusiast
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-I'm a DevOps Engineer with a passion for **cloud computing, automation, and CI/CD pipelines**. My journey began with a deep curiosity about optimizing deployments, improving infrastructure, and enhancing system efficiency. Today, I specialize in **AWS, Azure, Kubernetes, Docker, and Infrastructure as Code (IaC)** to build scalable, resilient, and efficient systems.
+- 🔭 I’m currently working on **End-To-End DevOps Project**
 
----
+- 🌱 I’m currently learning **Terraform, GitOps**
 
-## 🛠️ Technical Skills
+- 👯 I’m looking to collaborate on **DevOps projects**
 
-- **Cloud Platforms:** AWS | Azure  
-- **CI/CD Tools:** GitHub Actions | GitLab CI/CD | Jenkins  
-- **Infrastructure as Code:** Terraform | Ansible  
-- **Containerization & Orchestration:** Docker | Kubernetes  
-- **Monitoring & Logging:** Prometheus | Grafana | ELK Stack  
-- **Scripting & Automation:** Python | Bash  
-- **Version Control:** Git | GitHub | GitLab  
+- 📝 I regularly write articles on [Cloud-Native](Cloud-Native)
 
----
+- 💬 Ask me about **Linux, Docker, Kubernetes**
 
-## 🚀 Projects
+- 📫 How to reach me **abdelrahman.hamouda29@gmail.com**
 
-### BioTrack - Health Monitoring System  
-- Developed a **biometric monitoring** system using NIR spectroscopy to analyze health parameters.  
-- Integrated cloud-based analytics to provide real-time insights.  
+<h3 align="left">✨ Certificates:</h3>
+<p align="left">
+AWS Certified Cloud Practitioner
+- Oracle Certified Foundation Associate
+- DEPI DevOps Graduation
+</p>
 
-### Cloud Infrastructure as Code  
-- Automated AWS/Azure infrastructure provisioning using **Terraform & Ansible**.  
-- Improved deployment consistency and scalability.  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/3bdo7amouda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaled mahmoud" height="30" width="40" /></a>
+<a href="https://www.facebook.com/abdoham0da" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khaled mahmoud" height="30" width="40" /></a>
+</p>
 
-### Kubernetes Microservices Deployment  
-- Deployed and managed a **microservices-based** application using Kubernetes.  
-- Ensured high availability, security, and fault tolerance.  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3bdo7amouda&show_icons=true&locale=en&layout=compact" alt="3bdo7amouda" /></p>
 
-## 🌱 What I'm Currently Learning
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3bdo7amouda&show_icons=true&locale=en" alt="3bdo7amouda" /></p>
 
-- **Advanced Kubernetes orchestration** and service mesh technologies  
-- **Serverless computing** and its applications  
-- **Enhancing security practices** in DevOps (DevSecOps)  
-
----
-
-## 📬 Let’s Connect
-
-I'm always open to collaborating on exciting projects or discussing innovative ideas. Feel free to reach out:  
-- 💼 [LinkedIn] (https://www.linkedin.com/in/3bdo7amouda/)
-- 📩 Email: **abdelrahman.hamouda29@gmail.com**  
-
----
-
-💡 **Fun Fact:** When I’m not automating deployments, I enjoy exploring new technologies, riding horses, and playing chess.  
-
-🚀 **Let’s build the future of tech together!**
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3bdo7amouda&" alt="3bdo7amouda" /></p>
