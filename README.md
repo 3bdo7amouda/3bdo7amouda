@@ -12,8 +12,6 @@
 
 - 👯 I’m looking to collaborate on **DevOps projects**
 
-- 📝 I regularly write articles on [Cloud-Native](Cloud-Native)
-
 - 💬 Ask me about **Linux, Docker, Kubernetes**
 
 - 📫 How to reach me **abdelrahman.hamouda29@gmail.com**
@@ -23,6 +21,7 @@
 AWS Certified Cloud Practitioner
 - Oracle Certified Foundation Associate
 - DEPI DevOps Graduation
+- kodeKloud (11 certifications)
 </p>
 
 <h3 align="left">Connect with me:</h3>
