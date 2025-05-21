@@ -44,14 +44,7 @@ I'm a passionate DevOps Engineer with expertise in automating and optimizing mis
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3bdo7amouda&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3bdo7amouda&theme=dark" alt="GitHub Streak" />
-</p>
 
 ## 🔥 Featured Projects
 
