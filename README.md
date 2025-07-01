@@ -84,48 +84,25 @@
 
 </details>
 
-## 📈 **GitHub Analytics**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3bdo7amouda&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3bdo7amouda&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3bdo7amouda&theme=react&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6B35&currStreakLabel=C9D1D9" alt="GitHub Streak Stats"/>
-</div>
-
 ## 🏆 **Featured Projects**
 
-### 🚀 [Ultimate CI/CD DevOps Pipeline](https://github.com/3bdo7amouda/Ultimate-CI-CD-DevOps-Pipeline)
+### 🚀 Ultimate CI/CD DevOps Pipeline
 **Enterprise-grade end-to-end automation solution**
 - **Tech Stack**: Terraform • Ansible • Jenkins • ArgoCD • Kubernetes • Prometheus • Grafana
 - **Impact**: 40% faster deployments, zero-downtime releases
 - **Highlights**: Complete IaC provisioning, GitOps workflow, comprehensive monitoring
 
-[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=3bdo7amouda&repo=Ultimate-CI-CD-DevOps-Pipeline&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/3bdo7amouda/Ultimate-CI-CD-DevOps-Pipeline)
-
-### 🌐 [Kubernetes-Native Web Platform](https://github.com/3bdo7amouda/Explore-California-K8s)
+### 🌐 Kubernetes-Native Web Platform
 **Scalable microservices architecture on Kubernetes**
 - **Tech Stack**: Kubernetes • Docker • Nginx Ingress • Helm
 - **Features**: Auto-scaling, load balancing, service mesh integration
 - **Architecture**: Cloud-native design patterns, 12-factor app principles
 
-[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=3bdo7amouda&repo=Explore-California-K8s&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/3bdo7amouda/Explore-California-K8s)
-
-### ⚙️ [Production-Ready K8s Cluster](https://github.com/3bdo7amouda/k8s-cluster-vagrant)
+### ⚙️ Production-Ready K8s Cluster
 **Automated Kubernetes cluster provisioning**
 - **Tech Stack**: Vagrant • VirtualBox • Kubeadm • Containerd • Antrea CNI
 - **Features**: Multi-node setup, automated bootstrapping, network policies
 - **Use Case**: Development, testing, and learning environments
-
-[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=3bdo7amouda&repo=k8s-cluster-vagrant&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/3bdo7amouda/k8s-cluster-vagrant)
-
-<div align="center">
-  <a href="https://github.com/3bdo7amouda?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-2E9EF7?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
-  </a>
-</div>
 
 ## 🎖️ **Certifications & Training**
 
