@@ -131,7 +131,7 @@ automation_coverage: "95%"
 <div align="center">
 
 **Currently exploring opportunities in:**
-- 🌟 **Senior DevOps Engineering** roles
+- 🌟 **DevOps Engineering** roles
 - ☁️ **Cloud Architecture** positions  
 - 🚀 **Platform Engineering** teams
 - 🔧 **Site Reliability Engineering** (SRE)
