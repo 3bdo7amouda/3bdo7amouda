@@ -1,7 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12&amp;height=200&amp;section=header&amp;text=DevOps%20%26%20Cloud%20Engineer&amp;fontSize=50&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Building%20Scalable%20Infrastructure%20%7C%20Automating%20Everything&amp;descAlignY=55&amp;descAlign=center)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=DevOps%20Cloud%20Engineer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Building%20Scalable%20Infrastructure%20Automating%20Everything&descAlignY=55&descAlign=center)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=2E9EF7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi+%F0%9F%91%8B%2C+I'm+Abdelrahman+Hamouda;Cloud+%26+DevOps+Engineer;AWS+Solutions+Architect;Kubernetes+%26+CI%2FCD+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Abdelrahman+Hamouda;Cloud+DevOps+Engineer;AWS+Solutions+Architect;Kubernetes+CI/CD+Specialist" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🚀 Transforming Ideas into Scalable, Automated Infrastructure 🌐</h3>
@@ -254,5 +254,4 @@ cloud_platforms: "AWS • Azure • Hybrid"
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12&amp;height=100&amp;section=footer&amp;animation=fadeIn)
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100§ion=footer&animation=fadeIn)
