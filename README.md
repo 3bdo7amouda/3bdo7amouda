@@ -1,8 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=DevOps%20Cloud%20Engineer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Building%20Scalable%20Infrastructure%20Automating%20Everything&descAlignY=55&descAlign=center)
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Abdelrahman+Hamouda;Cloud+DevOps+Engineer;AWS+Solutions+Architect;Kubernetes+CI/CD+Specialist" alt="Typing SVG" />
-</h1>
 
 <h3 align="center">🚀 Transforming Ideas into Scalable, Automated Infrastructure 🌐</h3>
 
