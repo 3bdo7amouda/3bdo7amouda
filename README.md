@@ -254,5 +254,5 @@ cloud_platforms: "AWS • Azure • Hybrid"
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12&amp;height=100&amp;section=footer&amp;animation=fadeIn)
 
