@@ -1,10 +1,4 @@
-<!-- HEADER SNAKE ANIMATION + GLITCH TITLE -->
- 
-<div align="center">
- 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:020010,30:0a0a2e,70:001a3d,100:020010&height=280&section=header&text=ABDELRAHMAN%20HAMOUDA&fontSize=48&fontColor=00eaff&animation=blinking&fontAlignY=45&desc=Cloud%20%26%20DevOps%20Engineer%20%E2%80%94%20Building%20Infrastructure%20at%20Scale&descAlignY=68&descSize=17&descColor=88ccff&stroke=00eaff&strokeWidth=1.5)
- 
-</div>
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:020510,30:0a0f2e,60:0d1b4b,100:051030&height=350&section=header&text=ABDELRAHMAN%20HAMOUDA&fontSize=52&fontColor=00f0ff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%E2%80%94%20Automating%20the%20Future&descAlignY=58&descSize=16&descColor=7ee8fa&stroke=00f0ff&strokeWidth=2)
  
 <div align="center">
  
