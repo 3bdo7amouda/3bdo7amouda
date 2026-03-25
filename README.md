@@ -299,4 +299,3 @@ Cloud-native design patterns · High availability architecture
 ---
  
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:020010,40:0a0a2e,100:001a3d&height=140&section=footer&animation=fadeIn&fontColor=00eaff&fontSize=14&text=Thanks%20for%20visiting%20%E2%80%94%20Let%27s%20connect!&fontAlignY=65)
- 
