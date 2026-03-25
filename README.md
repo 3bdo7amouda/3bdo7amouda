@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=DevOps%20Engineer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Building%20Scalable%20Infrastructure%20Automating%20Everything&descAlignY=55&descAlign=center)
+**![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=DevOps%20Engineer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Building%20Scalable%20Infrastructure%20Automating%20Everything&descAlignY=55&descAlign=center)
 
 
 <h3 align="center">🚀 Transforming Ideas into Scalable, Automated Infrastructure 🌐</h3>
@@ -252,3 +252,4 @@ cloud_platforms: "AWS • Azure • Hybrid"
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=fadeIn)
+**
