@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:020510,30:0a0f2e,60:0d1b4b,100:051030&height=320&section=header&text=ABDELRAHMAN%20HAMOUDA&fontSize=52&fontColor=00f0ff&animation=fadeIn&fontAlignY=40&desc=Cloud%20%26%20DevOps%20Engineer%20%E2%80%94%20Automating%20the%20Future%2C%20One%20Pipeline%20at%20a%20Time&descAlignY=60&descSize=15&descColor=7ee8fa&stroke=00f0ff&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:020510,40:0a0f2e,100:0d1b4b&height=280&section=header&text=ABDELRAHMAN%20HAMOUDA&fontSize=52&fontColor=00f0ff&animation=fadeIn&fontAlignY=42&desc=Cloud%20and%20DevOps%20Engineer%20-%20Automating%20the%20Future%2C%20One%20Pipeline%20at%20a%20Time&descAlignY=65&descSize=15&descColor=7ee8fa)
  
 <div align="center">
  
@@ -164,72 +164,6 @@ ExternalDNS · Dependabot
 </div>
  
 ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
- 
-## GitHub Stats
- 
-<div align="center">
- 
-![stats](https://github-readme-stats.vercel.app/api?username=3bdo7amouda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=00eaff&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3bdo7amouda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00eaff&text_color=c9d1d9&langs_count=8)
- 
-</div>
- 
-<div align="center">
- 
-[![GitHub Streak](https://streak-stats.demolab.com?user=3bdo7amouda&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00eaff&ring=00eaff&fire=ff6b6b&currStreakLabel=00eaff&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
- 
-</div>
- 
-<div align="center">
- 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=3bdo7amouda&bg_color=0d1117&color=00eaff&line=00eaff&point=ffffff&area=true&area_color=00eaff&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
-</div>
- 
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
- 
-## 🐍 Contribution Snake
- 
-<div align="center">
- 
-![snake dark](https://raw.githubusercontent.com/3bdo7amouda/3bdo7amouda/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![snake light](https://raw.githubusercontent.com/3bdo7amouda/3bdo7amouda/output/github-contribution-grid-snake.svg#gh-light-mode-only)
- 
-</div>
- 
-<details>
-<summary><b>⚙️ One-time setup to activate the snake</b></summary>
- 
-Create `.github/workflows/snake.yml` in your **profile repo** (`3bdo7amouda/3bdo7amouda`) with this content:
- 
-```yaml
-name: Generate Snake
- 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
- 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
- 
-After first run, the snake SVG will appear automatically every day.
-</details>
  
 ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
  
