@@ -23,7 +23,7 @@
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> `$ whoami`
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> `$ whoami`
  
 ```yaml
 ┌─────────────────────────────────────────────────────────────┐
@@ -74,14 +74,12 @@
 <div align="center">
  
 ### ☁️ Cloud & Infrastructure
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,ansible,linux,bash&theme=dark" />
-</p>
+ 
+![cloud](https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,ansible,linux,bash&theme=dark)
  
 ### 🔄 CI/CD · Languages · Tooling
-<p>
-<img src="https://skillicons.dev/icons?i=jenkins,gitlab,github,git,python,prometheus,grafana&theme=dark" />
-</p>
+ 
+![cicd](https://skillicons.dev/icons?i=jenkins,gitlab,github,git,python,prometheus,grafana&theme=dark)
  
 </div>
  
@@ -168,8 +166,8 @@ Cloud-native design patterns · High availability architecture
  
 <div align="center">
  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=3bdo7amouda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=00eaff&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3bdo7amouda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00eaff&text_color=c9d1d9&langs_count=8" />
+![stats](https://github-readme-stats.vercel.app/api?username=3bdo7amouda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=00eaff&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3bdo7amouda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00eaff&text_color=c9d1d9&langs_count=8)
  
 </div>
  
@@ -193,11 +191,11 @@ Cloud-native design patterns · High availability architecture
  
 <div align="center">
  
-![snake gif](https://github.com/3bdo7amouda/3bdo7amouda/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/3bdo7amouda/3bdo7amouda/output/github-contribution-grid-snake-dark.svg)
  
 </div>
  
-> 💡 **To enable:** Add this GitHub Actions workflow to `.github/workflows/snake.yml` in your profile repo — [Platane/snk](https://github.com/Platane/snk)
+> 💡 **To activate the snake:** create `.github/workflows/snake.yml` in your profile repo with [Platane/snk](https://github.com/Platane/snk) — it auto-generates the SVG on a schedule.
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
@@ -301,3 +299,4 @@ Cloud-native design patterns · High availability architecture
 ---
  
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:020010,40:0a0a2e,100:001a3d&height=140&section=footer&animation=fadeIn&fontColor=00eaff&fontSize=14&text=Thanks%20for%20visiting%20%E2%80%94%20Let%27s%20connect!&fontAlignY=65)
+ 
