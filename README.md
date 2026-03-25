@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:020510,30:0a0f2e,60:0d1b4b,100:051030&height=350&section=header&text=ABDELRAHMAN%20HAMOUDA&fontSize=52&fontColor=00f0ff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%E2%80%94%20Automating%20the%20Future&descAlignY=58&descSize=16&descColor=7ee8fa&stroke=00f0ff&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:020510,30:0a0f2e,60:0d1b4b,100:051030&height=320&section=header&text=ABDELRAHMAN%20HAMOUDA&fontSize=52&fontColor=00f0ff&animation=fadeIn&fontAlignY=40&desc=Cloud%20%26%20DevOps%20Engineer%20%E2%80%94%20Automating%20the%20Future%2C%20One%20Pipeline%20at%20a%20Time&descAlignY=60&descSize=15&descColor=7ee8fa&stroke=00f0ff&strokeWidth=2)
  
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=600&color=00EAFF&center=true&vCenter=true&width=750&lines=☁️+Cloud+%26+DevOps+Engineer+%7C+1%2B+Years+Experience;🚀+Kubernetes+%7C+AWS+%7C+Terraform+%7C+ArgoCD+%7C+Jenkins;🔐+DevSecOps+%7C+99.9%25+Uptime+%7C+Zero-Downtime+Deploys;⚡+CI%2FCD+Architect+%7C+40%25+Faster+Delivery;🌍+Based+in+Egypt+%F0%9F%87%AA%F0%9F%87%AC+%7C+Open+to+KSA+%26+UAE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=600&color=00F0FF&center=true&vCenter=true&width=800&lines=☁️+Cloud+%26+DevOps+Engineer+%7C+AWS+·+Azure+·+Kubernetes;🔄+CI%2FCD+Architect+%7C+40%25+Faster+Deployments;🔐+DevSecOps+%7C+Snyk+·+OWASP+ZAP+·+Trivy+·+Gitleaks;📡+GitOps+%7C+ArgoCD+·+Terraform+·+Helm+·+Kustomize;🌍+Open+to+Roles+in+Saudi+Arabia+%26+UAE)](https://git.io/typing-svg)
  
 </div>
  
@@ -10,43 +10,40 @@
  
 <div align="center">
  
-[![LinkedIn](https://img.shields.io/badge/─────%20LinkedIn%20─────-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/3bdo7amouda)&nbsp;
-[![Gmail](https://img.shields.io/badge/─────%20Gmail%20─────-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahman.hamouda29@gmail.com)&nbsp;
-[![Portfolio](https://img.shields.io/badge/─────%20Portfolio%20─────-00EAFF?style=for-the-badge&logo=google-chrome&logoColor=0d0d0d)](https://3bdo7amouda.github.io/Landing-Page/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/─────%20LinkedIn%20─────-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/3bdo7amouda)
+[![Gmail](https://img.shields.io/badge/─────%20Gmail%20─────-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahman.hamouda29@gmail.com)
+[![Portfolio](https://img.shields.io/badge/─────%20Portfolio%20─────-00EAFF?style=for-the-badge&logo=google-chrome&logoColor=0d0d0d)](https://3bdo7amouda.github.io/Landing-Page/)
 [![Credly](https://img.shields.io/badge/─────%20Credly%20─────-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://credly.com/users/3bdo7amouda)
+[![GitHub](https://img.shields.io/badge/─────%20GitHub%20─────-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3bdo7amouda)
  
 </div>
  
 <br>
  
----
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> `$ whoami`
+## `$ whoami`
  
 ```yaml
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   name         :  Abdelrahman Hamouda                      │
-│   role         :  Cloud & DevOps Engineer                  │
-│   experience   :  1+ years  ·  Cloud-Native & DevOps       │
-│   education    :  B.Sc. Communication & Electrical Eng.    │
-│   graduated    :  June 2025                                 │
-│   location     :  Egypt 🇪🇬  →  Targeting KSA & UAE        │
-│   status       :  🟢 Actively seeking Cloud/DevOps/SRE     │
-│                                                             │
-│   focus  :  [ AWS · Azure · Kubernetes · Terraform         │
-│               ArgoCD · Jenkins · CI/CD · DevSecOps ]       │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   name         :  Abdelrahman Hamouda                       │
+│   role         :  Cloud & DevOps Engineer                   │
+│   experience   :  1+ years  ·  Cloud-Native & DevOps        │
+│   education    :  B.Sc. Communication & Electrical Eng.     │
+│   graduated    :  June 2025                                  │
+│   location     :  Egypt  →  Targeting KSA & UAE             │
+│   status       :  Actively seeking Cloud / DevOps / SRE     │
+│                                                              │
+│   stack  :  AWS · Azure · Kubernetes · Terraform            │
+│             ArgoCD · Jenkins · Azure DevOps · DevSecOps      │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
  
----
- 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Impact Metrics
+## Impact Metrics
  
 <div align="center">
  
@@ -65,20 +62,16 @@
  
 </div>
  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
  
----
- 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Tech Arsenal
+## Tech Arsenal
  
 <div align="center">
  
 ### ☁️ Cloud & Infrastructure
- 
 ![cloud](https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,ansible,linux,bash&theme=dark)
  
-### 🔄 CI/CD · Languages · Tooling
- 
+### 🔄 CI/CD · Scripting · Observability
 ![cicd](https://skillicons.dev/icons?i=jenkins,gitlab,github,git,python,prometheus,grafana&theme=dark)
  
 </div>
@@ -87,22 +80,49 @@
  
 <div align="center">
  
-| 🌩️ Cloud | 🔄 CI/CD | 🔒 DevSecOps | 📊 Monitoring |
+| 🌩️ Cloud & Infra | 🔄 CI/CD & GitOps | 🔒 DevSecOps | 📊 Observability |
 |:---:|:---:|:---:|:---:|
 | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white) | ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP_ZAP-000?style=flat-square&logo=owasp&logoColor=white) | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
-| ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=red-hat-open-shift&logoColor=white) | ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![GH Actions](https://img.shields.io/badge/GH_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) | ![GitLeaks](https://img.shields.io/badge/GitLeaks-181717?style=flat-square&logo=git&logoColor=white) ![CertMgr](https://img.shields.io/badge/Cert--Mgr-326CE5?style=flat-square&logo=letsencrypt&logoColor=white) | ![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) |
-| ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white) | ![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Kyverno](https://img.shields.io/badge/Kyverno-2C3E78?style=flat-square&logo=kubernetes&logoColor=white) | ![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=red-hat&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) | ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white) ![Alertmanager](https://img.shields.io/badge/Alertmanager-E6522C?style=flat-square&logo=prometheus&logoColor=white) |
+| ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=red-hat-open-shift&logoColor=white) | ![AzureDevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white) ![GH_Actions](https://img.shields.io/badge/GH_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) | ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua-security&logoColor=white) ![Gitleaks](https://img.shields.io/badge/Gitleaks-181717?style=flat-square&logo=git&logoColor=white) | ![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white) ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white) |
+| ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white) | ![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Kyverno](https://img.shields.io/badge/Kyverno-2C3E78?style=flat-square&logo=kubernetes&logoColor=white) | ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) ![CertMgr](https://img.shields.io/badge/Cert_Manager-326CE5?style=flat-square&logo=letsencrypt&logoColor=white) | ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) ![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black) |
  
 </div>
  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
  
----
- 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> Featured Projects
+## Featured Projects
  
 <div align="center">
 <table>
+ 
+<tr>
+<td colspan="2">
+<h3 align="center">🏆 Cloud-Native DevOps Platform — FLAGSHIP PROJECT</h3>
+<div align="center">
+ 
+> End-to-end production platform running a microservices voting app on **AWS EKS** with full
+> enterprise-grade CI/CD, GitOps, DevSecOps, and observability. Multi-environment (nonprod/prod).
+ 
+```
+Infrastructure  :  Terraform · AWS EKS · VPC · IAM IRSA · API Gateway · Cognito · NLB/ALB
+CI/CD           :  Azure DevOps Pipelines (Infra · Platform · CI · CD)
+GitOps          :  Argo CD · Helm · Kustomize · External Secrets · Vault
+Security        :  Gitleaks · SonarQube · Trivy · OWASP ZAP · Snyk
+Observability   :  Datadog Operator + DatadogAgent · Prometheus · Grafana
+Registry        :  Nexus · Private image pulls via ExternalSecrets + Vault
+App Stack       :  Flask (vote) · Node.js (result) · .NET (worker) · MongoDB Atlas
+```
+ 
+[![View Repo](https://img.shields.io/badge/View_Repository-00EAFF?style=for-the-badge&logo=github&logoColor=0d0d0d)](https://github.com/3bdo7amouda/cloud-native-devops-platform)
+[![HCL](https://img.shields.io/badge/HCL_60%25-7B42BC?style=flat-square&logo=terraform&logoColor=white)]()
+[![Shell](https://img.shields.io/badge/Shell_9.7%25-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)]()
+[![JS](https://img.shields.io/badge/JavaScript_6.4%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)]()
+[![CSharp](https://img.shields.io/badge/C%23_6.5%25-239120?style=flat-square&logo=c-sharp&logoColor=white)]()
+ 
+</div>
+</td>
+</tr>
+ 
 <tr>
 <td width="50%">
 <h3 align="center">🎯 HiveBox — End-to-End DevOps</h3>
@@ -115,7 +135,7 @@ Grafana · Prometheus · MinIO S3
 Cert-Manager · Let's Encrypt
 ```
  
-📅 Aug – Oct 2025 &nbsp;|&nbsp; 🟢 Production Grade
+📅 Aug – Oct 2025 · 🟢 Production Grade
  
 [![View Project](https://img.shields.io/badge/View_Project-00EAFF?style=for-the-badge&logo=github&logoColor=0d0d0d)](https://github.com/3bdo7amouda)
  
@@ -132,37 +152,20 @@ ExternalDNS · Dependabot
 → 40% faster · Zero downtime
 ```
  
-📅 Feb – Mar 2025 &nbsp;|&nbsp; ⚡ 40% Faster Deploys
+📅 Feb – Mar 2025 · ⚡ 40% Faster Deploys
  
 [![View Project](https://img.shields.io/badge/View_Project-00EAFF?style=for-the-badge&logo=github&logoColor=0d0d0d)](https://github.com/3bdo7amouda)
  
 </div>
 </td>
 </tr>
-<tr>
-<td colspan="2">
-<h3 align="center">🌐 Kubernetes-Native Web Platform</h3>
-<div align="center">
  
-```
-Kubernetes · Docker · Nginx Ingress · Helm
-12-Factor App · Auto-scaling · Load Balancing · Service Mesh
-Cloud-native design patterns · High availability architecture
-```
- 
-[![View Project](https://img.shields.io/badge/View_Project-00EAFF?style=for-the-badge&logo=github&logoColor=0d0d0d)](https://github.com/3bdo7amouda)
- 
-</div>
-</td>
-</tr>
 </table>
 </div>
  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
  
----
- 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Stats
+## GitHub Stats
  
 <div align="center">
  
@@ -183,23 +186,52 @@ Cloud-native design patterns · High availability architecture
  
 </div>
  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- 
----
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
  
 ## 🐍 Contribution Snake
  
 <div align="center">
  
-![snake gif](https://raw.githubusercontent.com/3bdo7amouda/3bdo7amouda/output/github-contribution-grid-snake-dark.svg)
+![snake dark](https://raw.githubusercontent.com/3bdo7amouda/3bdo7amouda/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake light](https://raw.githubusercontent.com/3bdo7amouda/3bdo7amouda/output/github-contribution-grid-snake.svg#gh-light-mode-only)
  
 </div>
  
-> 💡 **To activate the snake:** create `.github/workflows/snake.yml` in your profile repo with [Platane/snk](https://github.com/Platane/snk) — it auto-generates the SVG on a schedule.
+<details>
+<summary><b>⚙️ One-time setup to activate the snake</b></summary>
  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+Create `.github/workflows/snake.yml` in your **profile repo** (`3bdo7amouda/3bdo7amouda`) with this content:
  
----
+```yaml
+name: Generate Snake
+ 
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+ 
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+ 
+After first run, the snake SVG will appear automatically every day.
+</details>
+ 
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
  
 ## 🎖️ Certifications
  
@@ -209,75 +241,66 @@ Cloud-native design patterns · High availability architecture
 [![AWS CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://credly.com/users/3bdo7amouda)
 [![Oracle](https://img.shields.io/badge/Oracle_Certified_Foundation-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://credly.com/users/3bdo7amouda)
 [![DEPI](https://img.shields.io/badge/DEPI_DevOps_Graduate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](#)
- 
-</div>
- 
-<div align="center">
- 
-[![CKA](https://img.shields.io/badge/CKA_—_In_Progress_🎯-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](#)
+[![CKA](https://img.shields.io/badge/CKA_In_Progress-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](#)
 [![RH294](https://img.shields.io/badge/Red_Hat_RH294_Ansible-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)](#)
 [![OpenShift](https://img.shields.io/badge/Red_Hat_OpenShift_Admin_I-EE0000?style=for-the-badge&logo=red-hat-open-shift&logoColor=white)](#)
  
 </div>
  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
  
----
- 
-## 📡 DORA Metrics Dashboard
+## 📡 DORA Metrics
  
 <div align="center">
  
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│             📊  DORA  METRICS  —  ELITE  PERFORMER                  │
+│             DORA  METRICS  —  ELITE  PERFORMER                      │
 ├──────────────────────────────────┬──────────────────────────────────┤
-│  Deployment Frequency            │  Multiple times / day   🟢 Elite  │
-│  Lead Time for Changes           │  < 1 hour               🟢 Elite  │
-│  Mean Time to Recovery           │  < 30 minutes           🟢 Elite  │
-│  Change Failure Rate             │  < 2%                   🟢 Elite  │
+│  Deployment Frequency            │  Multiple times / day   ELITE    │
+│  Lead Time for Changes           │  < 1 hour               ELITE    │
+│  Mean Time to Recovery           │  < 30 minutes           ELITE    │
+│  Change Failure Rate             │  < 2%                   ELITE    │
 ├──────────────────────────────────┼──────────────────────────────────┤
-│  Infrastructure Uptime           │  99.9%                  ✅        │
-│  Automation Coverage             │  95%                    ✅        │
-│  Environments Managed            │  Dev · Stage · Prod     ✅        │
-│  Cloud Platforms                 │  AWS · Azure · Hybrid   ✅        │
+│  Infrastructure Uptime           │  99.9%                           │
+│  Automation Coverage             │  95%                             │
+│  Environments Managed            │  Dev · Stage · Prod              │
+│  Cloud Platforms                 │  AWS · Azure · Hybrid            │
 └──────────────────────────────────┴──────────────────────────────────┘
 ```
  
 </div>
  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- 
----
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
  
 ## 💼 Experience Timeline
  
 ```
 2025 Nov ──►  Cloud Engineer  (Full-time)
-              └─ Microsoft 365 · Azure · Entra ID · SharePoint · Teams
-              └─ AI-driven monitoring · Hybrid infrastructure
+              Azure · Microsoft 365 · Entra ID · SharePoint · Teams
+              AI-driven monitoring · Hybrid infrastructure management
  
-2025 Sep ──►  Cloud DevOps Intern @ NTI (National Telecom Institute)
-              └─ RHEL · Docker · Kubernetes · AWS · Jenkins · ArgoCD
-              └─ Snyk · OWASP ZAP · Prometheus · Agile/Scrum
+2025 Sep ──►  Cloud DevOps Intern @ NTI
+              RHEL · Docker · Kubernetes · AWS · Jenkins · ArgoCD
+              Snyk · OWASP ZAP · Prometheus · Agile / Scrum
  
-2025 Jun ──►  🎓 B.Sc. Graduated — Comm. & Electrical Engineering
+2025 Jun ──►  B.Sc. Graduated — Comm. & Electrical Engineering
  
 2024 Aug ──►  DevOps Engineer Intern @ DEPI
-              └─ CI/CD pipelines · Terraform · Ansible · Prometheus · Grafana
-              └─ ⚡ 40% faster delivery  ·  🤖 50% less manual ops
+              CI/CD pipelines · Terraform · Ansible · Prometheus · Grafana
+              40% faster delivery · 50% less manual ops
 ```
  
----
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
  
 ## 🌍 Let's Build Something
  
 <div align="center">
  
-### 🚀 Open to Roles In:
+### Open to Roles In:
 `DevOps Engineering` &nbsp;·&nbsp; `Cloud Architecture` &nbsp;·&nbsp; `Platform Engineering` &nbsp;·&nbsp; `SRE`
-<br>
-🇸🇦 **Saudi Arabia** &nbsp;&nbsp;|&nbsp;&nbsp; 🇦🇪 **UAE** &nbsp;&nbsp;|&nbsp;&nbsp; 🇪🇬 **Egypt** &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 **Remote**
+ 
+🇸🇦 **Saudi Arabia** &nbsp;|&nbsp; 🇦🇪 **UAE** &nbsp;|&nbsp; 🇪🇬 **Egypt** &nbsp;|&nbsp; 🌐 **Remote**
  
 <br>
  
@@ -295,7 +318,5 @@ Cloud-native design patterns · High availability architecture
 ![Profile Views](https://komarev.com/ghpvc/?username=3bdo7amouda&label=Profile+Views&color=00eaff&style=for-the-badge)
  
 </div>
- 
----
  
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:020010,40:0a0a2e,100:001a3d&height=140&section=footer&animation=fadeIn&fontColor=00eaff&fontSize=14&text=Thanks%20for%20visiting%20%E2%80%94%20Let%27s%20connect!&fontAlignY=65)
